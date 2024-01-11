@@ -1,2 +1,3 @@
 # product-star-java
-Lesson2
+Update 1!
+
